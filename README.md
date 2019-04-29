@@ -1,5 +1,6 @@
 # これは
-google analyticsのデフォルトスニペットを外部にまとめたもの トラッカーidはdocumentから適当に見つけるかタイムアウト(10秒)するまで探す
+[google analyticsのデフォルトスニペット](https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced?hl=ja)を外部にまとめたもの トラッカーidはdocumentから適当に見つけるかタイムアウト(10秒)するまで探す
+
 ga-idというidやclass、nameをもつ要素やdata-ga-idという属性をもつ要素のテキストノードや属性を探します
 
 ## usage
